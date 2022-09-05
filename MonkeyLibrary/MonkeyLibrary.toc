@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: MonkeyLibrary v2.8
+## Notes: Common files and functions for MonkeyMods. (http://www.toctastic.net/)
+## Author: Trentin (trentin@toctastic.net), Quel, MaxWayborn
+
+MonkeyLibrary.xml
